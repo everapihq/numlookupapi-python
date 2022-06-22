@@ -1,4 +1,4 @@
-# NumlookAPI Python Client #
+# NumlookupAPI Python Client #
 
 CurrencyAPI Python Client is the official Python Wrapper around the CurrencyAPI [API](https://numlookupapi.com/).
 
